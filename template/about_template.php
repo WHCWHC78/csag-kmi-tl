@@ -1,6 +1,6 @@
 <div class="about-us">
     <div class="page-header header-filter" data-parallax="active"
-         style="background-image: url('https://files.slack.com/files-pri/T1V5STT9N-F27M3UK5X/10842332_936253786399315_1275497118432717658_o.jpg');">
+         style="background-image: url('../images/10842332_936253786399315_1275497118432717658_o.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
@@ -62,7 +62,7 @@
             </div>
             <div class="row" style="margin-top: 50px">
                 <h1>Our History</h1>
-                <img src="https://files.slack.com/files-pri/T1V5STT9N-F27LSFE20/csc.jpg"
+                <img src="../images/csc.jpg"
                      style="width: 70%;margin-bottom: 30px;margin-top: 30px">
                 <h4>ที่มาของ CSAG
                     CSAG ก่อตั้งขึ้นในปี พ.ศ.2549

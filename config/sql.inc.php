@@ -5,7 +5,7 @@ require "mysql.php";
 //รายละเอียดฐานข้อมูล
 $dbhost = 'localhost';
 $dbusername = 'root';
-$dbpass = "";
+$dbpass = "root";
 $dbname = 'csag';
 
 

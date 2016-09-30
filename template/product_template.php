@@ -1,6 +1,6 @@
 <div class="about-us">
     <div class="page-header header-filter" data-parallax="active"
-         style="background-image: url('https://files.slack.com/files-pri/T1V5STT9N-F27MB8H1N/logobg.jpg');">
+         style="background-image: url('../images/logobg.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
@@ -16,7 +16,7 @@
         <div class="row" style="margin-top: 50px">
             <div class="col-md-6">
 
-                <div class="card card-background" style="background-image: url('https://files.slack.com/files-tmb/T1V5STT9N-F2J0U85QB-91efab975f/screen_shot_2559-09-30_at_10.47.53_pm_720.png')">
+                <div class="card card-background" style="background-image: url('../image/screen_shot_2559-09-30_at_10.47.53_pm_720.png')">
 
                     <div class="content">
 
@@ -50,7 +50,7 @@
             <div class="col-md-6">
 
                 <div class="card card-background"
-                     style="background-image: url('https://files.slack.com/files-pri/T1V5STT9N-F27KMSCE7/webboard.png')">
+                     style="background-image: url('../images/webboard.png')">
 
                     <div class="content">
 

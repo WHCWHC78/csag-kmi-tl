@@ -10,7 +10,7 @@
             </button>
             <a href="index.php">
 
-                <img src="https://files.slack.com/files-pri/T1V5STT9N-F2797SHBR/logo_small.png" style="height: 60px;"
+                <img src="./images/logo_small.png" style="height: 60px;"
                      alt="Computer System Administrator Group" title="Computer System Administrator Group">
 
             </a>

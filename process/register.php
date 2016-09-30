@@ -42,7 +42,7 @@ fullname,
         insert_date,
          last_update)
  VALUES(
- %s,%s,%s,%s,%s, now(),now())
+ %s, %s, %s, %s, %s, %s, now(), now())
  ",
     array(
         $_POST['name'],

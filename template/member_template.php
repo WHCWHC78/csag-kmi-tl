@@ -1,6 +1,6 @@
 <div class="about-us">
     <div class="page-header header-filter" data-parallax="active"
-         style="background-image: url('https://files.slack.com/files-pri/T1V5STT9N-F27MB8H1N/logobg.jpg');">
+         style="background-image: url('../images/logobg.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
