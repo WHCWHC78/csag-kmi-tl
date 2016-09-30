@@ -1,0 +1,26 @@
+section.experiences-body{
+  background-color: #fff;
+}
+
+.exp-block {
+  position: relative;
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+.exp-row {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.exp-block .thumbnail {
+  position: relative;
+  margin-left: 2%;
+  margin-right: 2%;
+  text-align: center;
+  height: 30%;
+}
+
+.exp-block img{
+  height: 100%;
+}

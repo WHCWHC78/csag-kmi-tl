@@ -1,0 +1,90 @@
+/* FONT */
+	@font-face {
+    font-family: 'wdb_bangna';
+    src: url('../fonts/wdb_bangna.eot');
+    src: url('../fonts/wdb_bangna.eot') format('embedded-opentype'),
+         url('../fonts/wdb_bangna.woff2') format('woff2'),
+         url('../fonts/wdb_bangna.woff') format('woff'),
+         url('../fonts/wdb_bangna.ttf') format('truetype'),
+         url('../fonts/wdb_bangna.svg#WDBBangnaRegular') format('svg');
+	}
+	
+	.bangna {
+		font-family: 'wdb_bangna';
+		font-weight: bold;
+
+	}
+
+	.four {
+		position: relative;
+		height:250px;
+		color: white;
+		text-align: center;
+	}
+
+	.four-content {
+		
+	}
+
+
+	nav {
+		margin-bottom: 0px !important;
+		border-radius: 0px !important;
+	}
+
+	.show-div {
+		position:absolute;
+		top:0px;
+		opacity: 0;
+		text-align: center;
+	}
+
+	.content {
+		margin-top: 60px;
+	}
+
+	.whiteFrame{
+		border-style: solid;
+		border-radius: 5px;
+		border-width: 1px;
+		border-color: #bdc3c7;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		margin-bottom: 30px;
+		color:#2c3e50; 
+		background:white;
+	    box-shadow: 10px 10px 5px #bdc3c7;
+	    min-height: 180px;
+
+	}
+
+
+	.whiteFrame:hover {
+		box-shadow: 5px 5px 3px #bdc3c7;
+		left: 5px;
+		bottom: -5px;
+	}
+
+	.nmtb {
+		margin-top: 0px;
+		padding-top: 10px;
+		padding-bottom: 40px;
+	}
+
+	.inblock{
+	font-size:50%;
+	color:#ecf0f1;
+	}
+	a:hover{
+	text-decoration: inherit;
+	}
+	a:hover .inblock{
+	text-decoration: inherit;
+	font-size:250%;
+	}
+	.fontw{
+	color:#fff;
+	}
+	.blacky{
+	background-color:#34495e;
+	}

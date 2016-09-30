@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'WDBBangnaRegular';
+    src: url('wdb_bangna.eot');
+    src: url('wdb_bangna.eot') format('embedded-opentype'),
+         url('wdb_bangna.woff2') format('woff2'),
+         url('wdb_bangna.woff') format('woff'),
+         url('wdb_bangna.ttf') format('truetype'),
+         url('wdb_bangna.svg#WDBBangnaRegular') format('svg');
+}

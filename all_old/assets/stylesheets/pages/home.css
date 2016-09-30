@@ -1,0 +1,132 @@
+body {
+  background-color: #34495E;
+}
+
+.btn-csagc {
+  margin-left: 1%;
+}
+
+.csag-announce {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#mini-admin-agenda {
+  background-color: #fff;
+  border-color: #ddd;
+  border-width: 1px;
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+section.csag-main {
+  background-image: url('/assets/images/csag-background.png');
+  color: #fff;
+  min-height: 700px;
+}
+
+section.csag-main h1.under-construction {
+  text-align: center;
+}
+
+section.csag-main img.under-construction {
+  margin-bottom: 20px;
+}
+
+section.csag-main h1.registration-finish {
+  text-align: center;
+}
+
+section.csag-main img.registration-finish {
+  margin-bottom: 20px;
+}
+
+section.csag-main .back-home {
+  font-size: 2em;
+}
+
+section.csag-footer h4 {
+  padding-top: 10px;
+  text-align: center;
+}
+
+section.csag-footer i.fa {
+  font-size: 30px;
+  color: #fff;
+  margin-right: 5px;
+}
+
+section.csag-footer span.csag-fa {
+  font-size: 20px;
+  color: #fff;
+}
+
+@font-face {
+  font-family: 'wdb_bangnaregular';
+  src: url('/media/fonts/WDBBangna.eot');
+  src: url('/media/fonts/WDBBangna.eot?#iefix') format('embedded-opentype'),
+       url('/media/fonts/WDBBangna.woff') format('woff'),
+       url('/media/fonts/WDBBangna.ttf') format('truetype'),
+       url('/media/fonts/WDBBangna.svg#wdb_bangnaregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#learn-more-modal {
+  font-family: 'wdb_bangnaregular';
+}
+
+/* Events */
+section.mini-admin-training {
+  background-color: #fff;
+  padding-bottom: 30px;
+}
+
+section.csag-event h3 {
+  color: #e74c3c;
+}
+
+section.csag-event {
+  color: #fff;
+  background-color: #2c3e50
+}
+
+section.member-recruiting {
+  padding-bottom: 30px;
+  color: #fff;
+  background-color: #2c3e50;
+}
+
+section.registration-process{
+  padding-bottom: 30px;
+  color: #fff;
+  padding-top:30px;
+  background-color: #2c3e50
+}
+
+/* Homepage style */
+.announcement-card{
+  padding: 10px 10px 10px 10px;
+  color: white;
+}
+
+.benefit-card{
+  padding: 5px 5px 5px 5px;
+  box-shadow: 10px 10px 3px #212121;
+  background-color: #34495E;
+  color: white;
+  border-color: #2ECC71;
+  border-radius: 5px;
+  border-style: solid;
+  font-size: 16px;
+  margin-top: 20px;
+  min-height: 270px;
+}
+
+.benefit-img{
+  margin-bottom: 20px;
+}
+
+.register-box{
+  border-left-style: dashed;
+  border-left-width: 2px;
+}

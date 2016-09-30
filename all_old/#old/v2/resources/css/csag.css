@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+.box1{ text-align:center; padding:50px 0px 34px 10px;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease; margin-left:0px;}
+.box1.first{ margin-left:0; padding-left:0;}
+.box1:hover{ background:#f7f7f7;}
+.box1 p{ padding:30px 40px 31px;}
+.borderR{ border-right:1px solid #ebebeb;}
+.spanW{ width:225px;}
+.spanW h2{ font-family:'Oswald'; font-size:45px; text-transform:uppercase; letter-spacing:-2px;}
+.spanW p{min-height: 80px;}
+h1 { letter-spacing: -2px; }
