@@ -1,11 +1,11 @@
-<? session_start(); ?>
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
 </head>
 <body>
-<?
+<?php
 
 if ($_POST['email'] == "") {
     echo "<script>alert('กรุณากรอกอีเมล');history.back();</script>";
@@ -25,9 +25,9 @@ if (!$row) {
     exit();
 }
 $_SESSION['email'] = $email;
-$_SESSION['member'] = $row['firstname'];
+$_SESSION['member'] = $row['fullname'];
 $_SESSION['id'] = $row['id'];
-$_SESSION['fullname'] = $row['firstname'] . " " . $row['lastname'];
+$_SESSION['fullname'] = $row['fullname'] ;
 echo "<script>document.location=document.referrer;</script>";
 
 

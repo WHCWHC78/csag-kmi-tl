@@ -1,412 +1,431 @@
-<section id="title" class="emerald">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6">
-                <h1>About Us</h1>
+<div class="about-us">
+    <div class="page-header header-filter" data-parallax="active"
+         style="background-image: url('https://files.slack.com/files-pri/T1V5STT9N-F27M3UK5X/10842332_936253786399315_1275497118432717658_o.jpg');">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <h1>เกี่ยวกับ CSAG</h1>
 
-                <p>เกี่ยวกับเรา</p>
-            </div>
-            <div class="col-sm-6">
-                <ul class="breadcrumb pull-right">
-                    <li><a href="index.php">Home</a></li>
-                    <li class="active">About Us</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</section><!--/#title-->
-<section id="about-us" class="container">
-
-
-    <section id="about-us" class="container">
-        <div class="row">
-            <div class="col-sm-6">
-                <h2>What is CSAG</h2>
-
-                <p>CSAG ย่อมาจาก Computer System Administrator Group เป็นการรวมกลุ่มนักศึกษาในสถาบันเทคโนโลยีพระจอมเกล้า
-                    เจ้าคุณทหาร ลาดกระบัง ที่มีความสนใจเกี่ยวกับคอมพิวเตอร์
-                    เพื่อแบ่งปันความรู้และประสบการณ์และความรู้ต่างๆ
-                    นอกจากนี้ยังเป็นกลุ่มนักศึกษาที่พัฒนาและดูแลบริการเว็บไซต์ต่างๆสำหรับนักศึกษาในสถาบันอีกด้วย</p>
-
-
-            </div>
-            <!--/.col-sm-6-->
-<!--            <div class="col-sm-6">-->
-<!--                <h2>Our Skills</h2>-->
-<!---->
-<!--                <div>-->
-<!--                    <div class="progress">-->
-<!--                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90"-->
-<!--                             aria-valuemin="0" aria-valuemax="100" style="width: 90%;">-->
-<!--                            <span>HTML/CSS</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="progress">-->
-<!--                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70"-->
-<!--                             aria-valuemin="0" aria-valuemax="100" style="width: 70%;">-->
-<!--                            <span>Wordpress</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="progress">-->
-<!--                        <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0"-->
-<!--                             aria-valuemax="100" style="width: 40%;">-->
-<!--                            <span>Joomla</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="progress">-->
-<!--                        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="55"-->
-<!--                             aria-valuemin="0" aria-valuemax="100" style="width: 55%;">-->
-<!--                            <span>Drupal</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="progress">-->
-<!--                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="75"-->
-<!--                             aria-valuemin="0" aria-valuemax="100" style="width: 75%;">-->
-<!--                            <span>PHP</span>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-            <!--/.col-sm-6-->
-        </div>
-        <div class="embed-responsive embed-responsive-4by3">
-            <iframe class="embed-responsive-item" style="width: 100%;height: 500px"
-                    src="http://www.youtube.com/embed/UjG4YPct1Wc" frameborder="0" allowfullscreen></iframe>
-        </div>
-        <!--/.row-->
-    </section>
-    <br>
-    <br>
-    <br>
-    <!-- PICTURE -->
-    <div class="row">
-        <div class="col-md-3 col-sm-6">
-            <div class="media">
-                <div class="pull-left">
-                    <i class="icon-facebook icon-md"></i>
-                </div>
-                <div class="media-body">
-                    <h3 class="media-heading">Freedom</h3>
-
-                    <p>อิสระในการเรียนรู้</p>
-                </div>
-            </div>
-        </div>
-        <!--/.col-md-4-->
-        <div class="col-md-3 col-sm-6">
-            <div class="media">
-                <div class="pull-left">
-                    <i class="icon-facebook icon-md"></i>
-                </div>
-                <div class="media-body">
-                    <h3 class="media-heading">Friend</h3>
-
-                    <p>เพื่อนและสังคมแห่งการแบ่งปัน</p>
-                </div>
-            </div>
-        </div>
-        <!--/.col-md-4-->
-        <div class="col-md-3 col-sm-6">
-            <div class="media">
-                <div class="pull-left">
-                    <i class="icon-facebook icon-md"></i>
-                </div>
-                <div class="media-body">
-                    <h3 class="media-heading">Feature</h3>
-
-                    <p>ทรัพยากรเพื่อการเรียนรู้</p>
-                </div>
-            </div>
-        </div>
-        <!--/.col-md-4-->
-        <div class="col-md-3 col-sm-6">
-            <div class="media">
-                <div class="pull-left">
-                    <i class="icon-facebook icon-md"></i>
-                </div>
-                <div class="media-body">
-                    <h3 class="media-heading">Fun</h3>
-
-                    <p>สนุก และ เรียนรู้ไปด้วยกัน</p>
                 </div>
             </div>
         </div>
     </div>
+    <div class="main main-raised text-center" style="margin-bottom: 50px">
+        <div class="container">
+            <div class="row" style="margin-top: 50px">
+                <h1>What is CSAG?</h1>
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="info">
+                            <div class="icon icon-info">
+                                <i class="material-icons">accessibility</i>
+                            </div>
+                            <h4>Freedom</h4>
+                            <p>อิสระในการเรียนรู้</p>
+                        </div>
+                    </div>
 
+                    <div class="col-md-3">
+                        <div class="info">
+                            <div class="icon icon-success">
+                                <i class="material-icons">group</i>
+                            </div>
+                            <h4>Friend</h4>
+                            <p>เพื่อน และ สังคมแห่งการแบ่งปัน</p>
+                        </div>
+                    </div>
 
-    <br>
-    <br>
-    <br>
+                    <div class="col-md-3">
+                        <div class="info">
+                            <div class="icon icon-danger">
+                                <i class="material-icons">dns</i>
+                            </div>
+                            <h4>Feature</h4>
+                            <p>ทรัพยากร เพื่อการเรียนรู้</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="info">
+                            <div class="icon icon-warning">
+                                <i class="material-icons">toys</i>
+                            </div>
+                            <h4>Fun</h4>
+                            <p>สนุก และ เรียนรู้ไปด้วยกัน</p>
+                        </div>
+                    </div>
+                </div>
+                <h4><b>CSAG/b> ย่อมาจาก Computer System Administrator Group
+                    เป็นการรวมกลุ่มนักศึกษาในสถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+                    ที่มีความสนใจเกี่ยวกับคอมพิวเตอร์ เพื่อแบ่งปันความรู้และประสบการณ์และความรู้ต่างๆ
+                    นอกจากนี้ยังเป็นกลุ่มนักศึกษาที่พัฒนาและดูแลบริการเว็บไซต์ต่างๆสำหรับนักศึกษาในสถาบันอีกด้วย
+                </h4>
+            </div>
+            <div class="row" style="margin-top: 50px">
+                <h1>Our History</h1>
+                <img src="https://files.slack.com/files-pri/T1V5STT9N-F27LSFE20/csc.jpg"
+                     style="width: 70%;margin-bottom: 30px;margin-top: 30px">
+                <h4>ที่มาของ CSAG
+                    CSAG ก่อตั้งขึ้นในปี พ.ศ.2549
+                    โดยเกิดจากการรวมกลุ่มนักศึกษาที่สนใจทางด้านคอมพิวเตอร์และเข้ามาช่วยเหลืองานของสำนักบริการคอมพิวเตอร์ในขณะนั้น
+                    จากความสนใจร่วมกันดังกล่าวทำให้มีการอบรมแลกเปลี่ยนความรู้
+                    ซึ่งต่อยอดและพัฒนามาเป็นบริการเทคโนโลยีสารสนเทศต่างๆให้กับสถาบัน
+                    และเพื่อให้เกิดความหลากหลายและสานต่อองความรู้ต่างๆ
+                    ได้มีการเปิดรับสมาชิกใหม่ซึ่งเป็นนักศึกษาชั้นปีที่ 1 ในช่วงการเปิดภาคเรียนใหม่
+                    โดยไม่จำกัดทั้งสาขาและคณะ<br/>
 
-    <h1 class="center">Meet the Team</h1>
+                </h4>
+            </div>
 
-    <p class="lead center">The present members of CSAG</p>
+            <div class="row">
+                <div class="col-md-12" style="margin-bottom: 30px">
+                    <h1>Member</h1>
+                </div>
 
-    <div class="gap"></div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
 
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
 
-    <div id="meet-the-team" class="row">
-        <!-- senior -->
-        <div class="col-md-12 col-xs-6">
-            <div class="center">
-                <h2>
-                    Senior
-                </h2>
-            </div>
-        </div>
-        <div class="col-md-2 col-md-offset-1 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/beam.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Chanon Jaratsuttikul
-                     
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
+                            <h4>Passakon Puttasuwan</h4>
 
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-                <!--                <a-->
-                <!--                    class="btn btn-social btn-google-plus" href="#"><i class="icon-google-plus"></i></a> <a-->
-                <!--                    class="btn btn-social btn-twitter" href="#"><i class="icon-twitter"></i></a> <a-->
-                <!--                    class="btn btn-social btn-linkedin" href="#"><i class="icon-linkedin"></i></a>-->
-            </div>
-        </div>
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
 
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/neno.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Thanapon Soo
-                     
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/ko.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Supagorn Warodom
-                     
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/nut.png"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Nut Juangmalisakul
-                     
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
 
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/tuck.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Rinlapat Tuck
-                     
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
+                            <h4>Passakon Puttasuwan</h4>
 
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
 
-        <!-- junior -->
-        <div class="col-md-12 col-xs-6">
-            <div class="center">
-                <h2>
-                    Junior
-                </h2>
-            </div>
-        </div>
-        <div class="col-md-2 col-md-offset-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/kopai.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Srikote Naewchampa
-                    
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
 
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-                <!--                <a-->
-                <!--                    class="btn btn-social btn-google-plus" href="#"><i class="icon-google-plus"></i></a> <a-->
-                <!--                    class="btn btn-social btn-twitter" href="#"><i class="icon-twitter"></i></a> <a-->
-                <!--                    class="btn btn-social btn-linkedin" href="#"><i class="icon-linkedin"></i></a>-->
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/long.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Passakon Puttasuwan
-                    
-                    <small class="designation muted">Computer Science</small>
-                </h5>
+                            <h4>Passakon Puttasuwan</h4>
 
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/oil.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Chanapon Tatongjai
-                    
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
 
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/mos.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Parnmet Daengphruan
-                    
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
 
-        <!-- sophomore -->
-        <div class="col-md-12 col-xs-6">
-            <div class="center">
-                <h2>
-                    Sophomore
-                </h2>
-            </div>
-        </div>
-        <div class="col-md-2 col-md-offset-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/dream.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Isara Naranirattisai
-                    
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-                <!--                <a-->
-                <!--                    class="btn btn-social btn-google-plus" href="#"><i class="icon-google-plus"></i></a> <a-->
-                <!--                    class="btn btn-social btn-twitter" href="#"><i class="icon-twitter"></i></a> <a-->
-                <!--                    class="btn btn-social btn-linkedin" href="#"><i class="icon-linkedin"></i></a>-->
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/por.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Kantichai Rujitrakarnchotikul
-                    
-                    <small class="designation muted">Computer Engineering</small>
+                            <h4>Passakon Puttasuwan</h4>
 
-                </h5>
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/ohm.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>Metasit Rinthon
-                    
-                    <small class="designation muted">Computer Engineering</small>
-                </h5>
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <h2 class="pull-left" style="margin-top: 50px">Alumni</h2>
+                    <div style="clear: both"></div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
 
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/pat.jpg"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>
-                    Napat Jintanakosol
-                    
-                    <small class="designation muted">Computer Science</small>
-                </h5>
-                <!--                <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a>-->
-            </div>
-        </div>
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
 
-        <!-- NEXT ? -->
-        <div class="col-md-12 col-xs-6">
-            <div class="center">
-                <h2>
-                    AND... Freshman <br>
-                    May be You!
-                </h2>
-            </div>
-        </div>
-        <div class="col-md-2 col-md-offset-1 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/question.png"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>?????
-                    
-                    <small class="designation muted">?????</small>
-                </h5>
-            </div>
-        </div>
+                            <h4>Passakon Puttasuwan</h4>
 
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/question.png"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>?????
-                    
-                    <small class="designation muted">?????</small>
-                </h5>
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/question.png"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>?????
-                    
-                    <small class="designation muted">?????</small>
-                </h5>
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/question.png"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>?????
-                    
-                    <small class="designation muted">?????</small>
-                </h5>
-            </div>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <div class="center">
-                <p><img class="img-responsive img-thumbnail img-circle" src="images/member/question.png"
-                        style="height:175px; width: 175px;" alt=""></p>
-                <h5>?????
-                    
-                    <small class="designation muted">?????</small>
-                </h5>
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
+
+                            <h4>Passakon Puttasuwan</h4>
+
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
+
+                            <h4>Passakon Puttasuwan</h4>
+
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
+
+                            <h4>Passakon Puttasuwan</h4>
+
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <h2 class="pull-left" style="margin-top: 50px">Senior</h2>
+                    <div style="clear: both"></div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
+
+                            <h4>Passakon Puttasuwan</h4>
+
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
+
+                            <h4>Passakon Puttasuwan</h4>
+
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
+
+                            <h4>Passakon Puttasuwan</h4>
+
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="#pablo">
+                                <img class="img"
+                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h6 class="category text-gray">CEO</h6>
+
+                            <h4>Passakon Puttasuwan</h4>
+
+                            <p class="card-description">
+                                ไปด้วยกันไปได้ไกล
+                            </p>
+                            <div class="footer">
+                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
+                                        class="fa fa-twitter"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
+                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-
-    <!-- contact -->
-    <div class="col-md-12 col-xs-6">
-        <div class="center">
-            <h2> Contact us :
-                <a href="https://www.facebook.com/csag.kmitl" target="_blank">Computer System Administrator Group</a>
-</h2>
-        </div>
-    </div>
-
-</section>
+</div>

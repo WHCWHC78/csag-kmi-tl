@@ -1,11 +1,11 @@
-<? session_start(); ?>
+<?php session_start(); ?>
 <!DOCTYPE html >
 <html>
 <head>
     <meta charset="utf-8" />
 </head>
 <body>
-<?
+<?php
 unset($_SESSION['member']);
 unset($_SESSION['email']);
 unset($_SESSION['fullname']);
