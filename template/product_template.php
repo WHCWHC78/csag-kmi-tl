@@ -16,11 +16,11 @@
         <div class="row" style="margin-top: 50px">
             <div class="col-md-6">
 
-                <div class="card card-background" style="background-image: url('../image/screen_shot_2559-09-30_at_10.47.53_pm_720.png')">
+                <div class="card card-background" style="background-image: url('../images/screen_shot_2559-09-30_at_10.47.53_pm_720.png')">
 
                     <div class="content">
 
-                        <a href="#pablo">
+                        <a href="http://webserv.kmitl.ac.th" target="_blank">
                             <h3 class="card-title">Webserv 2.0</h3>
                         </a>
                         <p class="card-description">
@@ -38,7 +38,9 @@
                 <div class="card card-background"
                      style="background-image: url('images/kmitl.png')">
                     <div class="content">
-                        <h3 class="card-title">KMI.TL</h3>
+                        <a href="http://kmi.tl" target="_blank">
+                            <h3 class="card-title">KMI.TL</h3>
+                        </a>
                         <p class="card-description">
                             KMI.TL เป็นบริการย่อ URL ให้สั้นลงภายใต้ kmi.tl/...
                             ซึ่งเปิดให้ใช้บริการได้ทั่วไป แต่ห้ามใช้เพื่อก่อให้เกิดหรือมีความผิดต่อกฎหมายเด็ดขาด
@@ -54,7 +56,7 @@
 
                     <div class="content">
 
-                        <a href="#pablo">
+                        <a href="#">
                             <h3 class="card-title">Web Board</h3>
                         </a>
                         <p class="card-description">
