@@ -54,10 +54,10 @@
                         </div>
                     </div>
                 </div>
-                <h4><b>CSAG/b> ย่อมาจาก Computer System Administrator Group
+                <h4><b>CSAG ย่อมาจาก Computer System Administrator Group
                     เป็นการรวมกลุ่มนักศึกษาในสถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
                     ที่มีความสนใจเกี่ยวกับคอมพิวเตอร์ เพื่อแบ่งปันความรู้และประสบการณ์และความรู้ต่างๆ
-                    นอกจากนี้ยังเป็นกลุ่มนักศึกษาที่พัฒนาและดูแลบริการเว็บไซต์ต่างๆสำหรับนักศึกษาในสถาบันอีกด้วย
+                    นอกจากนี้ยังเป็นกลุ่มนักศึกษาที่พัฒนาและดูแลบริการเว็บไซต์ต่างๆสำหรับนักศึกษาในสถาบันอีกด้วย</b>
                 </h4>
             </div>
             <div class="row" style="margin-top: 50px">
@@ -80,147 +80,24 @@
                 <div class="col-md-12" style="margin-bottom: 30px">
                     <h1>Member</h1>
                 </div>
-
-                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
-                    <div class="card card-profile">
-                        <div class="card-avatar">
-                            <a href="#pablo">
-                                <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
-                            </a>
-                        </div>
-
-                        <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
-                            <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
-                                        class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
-                    <div class="card card-profile">
-                        <div class="card-avatar">
-                            <a href="#pablo">
-                                <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
-                            </a>
-                        </div>
-
-                        <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
-                            <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
-                                        class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
-                    <div class="card card-profile">
-                        <div class="card-avatar">
-                            <a href="#pablo">
-                                <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
-                            </a>
-                        </div>
-
-                        <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
-                            <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
-                                        class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
-                    <div class="card card-profile">
-                        <div class="card-avatar">
-                            <a href="#pablo">
-                                <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
-                            </a>
-                        </div>
-
-                        <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
-                            <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
-                                        class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-md-12">
-                    <h2 class="pull-left" style="margin-top: 50px">Alumni</h2>
+                    <h2 class="pull-left" style="margin-top: 50px">Sophomore</h2>
                     <div style="clear: both"></div>
                 </div>
                 <div class="col-md-3 col-sm-4" style="margin-top: 30px">
                     <div class="card card-profile">
                         <div class="card-avatar">
-                            <a href="#pablo">
+                            <a href="../images/member/kong-yay.jpg">
                                 <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                                     src="../images/member/kong-yay.jpg">
                             </a>
                         </div>
 
                         <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
+                            <h4>Kong-Yay Pitawat</h4>
                             <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                <a href="https://www.facebook.com/Kongyay" class="btn btn-just-icon btn-facebook btn-round"><i
                                         class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
                             </div>
                         </div>
                     </div>
@@ -228,27 +105,17 @@
                 <div class="col-md-3 col-sm-4" style="margin-top: 30px">
                     <div class="card card-profile">
                         <div class="card-avatar">
-                            <a href="#pablo">
+                            <a href="../images/member/ti.jpg">
                                 <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                                     src="../images/member/ti.jpg">
                             </a>
                         </div>
 
                         <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
+                            <h4>Kamonnop Arunrat</h4>
                             <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                <a href="https://www.facebook.com/cybergartar" class="btn btn-just-icon btn-facebook btn-round"><i
                                         class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
                             </div>
                         </div>
                     </div>
@@ -256,27 +123,17 @@
                 <div class="col-md-3 col-sm-4" style="margin-top: 30px">
                     <div class="card card-profile">
                         <div class="card-avatar">
-                            <a href="#pablo">
+                            <a href="../images/member/chopper.png">
                                 <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                                     src="../images/member/chopper.png">
                             </a>
                         </div>
 
                         <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
+                            <h4>Vason Maitree</h4>
                             <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                <a href="https://www.facebook.com/vason.maitree" class="btn btn-just-icon btn-facebook btn-round"><i
                                         class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
                             </div>
                         </div>
                     </div>
@@ -284,27 +141,111 @@
                 <div class="col-md-3 col-sm-4" style="margin-top: 30px">
                     <div class="card card-profile">
                         <div class="card-avatar">
-                            <a href="#pablo">
+                            <a href="../images/member/boss.jpg">
                                 <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                                     src="../images/member/boss.jpg">
                             </a>
                         </div>
 
                         <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
+                            <h4>Jitiwattana Robru</h4>
                             <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                <a href="https://www.facebook.com/jitiwattana" class="btn btn-just-icon btn-facebook btn-round"><i
                                         class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="../images/member/nat.png">
+                                <img class="img"
+                                     src="../images/member/nat.png">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h4>Nattapat</h4>
+                            <div class="footer">
+                                <a href="https://www.facebook.com/nattapat.thp" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <h2 class="pull-left" style="margin-top: 50px">Junior</h2>
+                    <div style="clear: both"></div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="../images/member/ohm.jpg">
+                                <img class="img"
+                                     src="../images/member/ohm.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h4>Metasit Rinthon</h4>
+                            <div class="footer">
+                                <a href="https://www.facebook.com/readme.htmI" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="../images/member/pat.jpg">
+                                <img class="img"
+                                     src="../images/member/pat.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h4>Napat Jintanakosol</h4>
+                            <div class="footer">
+                                <a href="https://www.facebook.com/napat.jintanakosol" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="../images/member/por.jpg">
+                                <img class="img"
+                                     src="../images/member/por.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h4>Kantichai R.</h4>
+                            <div class="footer">
+                                <a href="https://www.facebook.com/kantichai" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4" style="margin-top: 30px">
+                    <div class="card card-profile">
+                        <div class="card-avatar">
+                            <a href="../images/member/dream.jpg">
+                                <img class="img"
+                                     src="../images/member/dream.jpg">
+                            </a>
+                        </div>
+
+                        <div class="content">
+                            <h4>Isara Naranirattisai</h4>
+                            <div class="footer">
+                                <a href="https://www.facebook.com/Corneliodream" class="btn btn-just-icon btn-facebook btn-round"><i
+                                        class="fa fa-facebook-square"></i></a>
                             </div>
                         </div>
                     </div>
@@ -316,27 +257,17 @@
                 <div class="col-md-3 col-sm-4" style="margin-top: 30px">
                     <div class="card card-profile">
                         <div class="card-avatar">
-                            <a href="#pablo">
+                            <a href="../images/member/long.jpg">
                                 <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                                     src="../images/member/long.jpg">
                             </a>
                         </div>
 
                         <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
                             <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
                             <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                <a href="https://www.facebook.com/itcyberclub" class="btn btn-just-icon btn-facebook btn-round"><i
                                         class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
                             </div>
                         </div>
                     </div>
@@ -344,27 +275,17 @@
                 <div class="col-md-3 col-sm-4" style="margin-top: 30px">
                     <div class="card card-profile">
                         <div class="card-avatar">
-                            <a href="#pablo">
+                            <a href="../images/member/kopai.jpg">
                                 <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                                     src="../images/member/kopai.jpg">
                             </a>
                         </div>
 
                         <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
+                            <h4>Srikote Naewchampa</h4>
                             <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                <a href="https://www.facebook.com/N.srikote" class="btn btn-just-icon btn-facebook btn-round"><i
                                         class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
                             </div>
                         </div>
                     </div>
@@ -372,27 +293,17 @@
                 <div class="col-md-3 col-sm-4" style="margin-top: 30px">
                     <div class="card card-profile">
                         <div class="card-avatar">
-                            <a href="#pablo">
+                            <a href="../images/member/mos.jpg">
                                 <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                                     src="../images/member/mos.jpg">
                             </a>
                         </div>
 
                         <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
+                            <h4>Parnmet Daengphruan</h4>
                             <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                <a href="https://www.facebook.com/parnmet" class="btn btn-just-icon btn-facebook btn-round"><i
                                         class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
                             </div>
                         </div>
                     </div>
@@ -400,27 +311,17 @@
                 <div class="col-md-3 col-sm-4" style="margin-top: 30px">
                     <div class="card card-profile">
                         <div class="card-avatar">
-                            <a href="#pablo">
+                            <a href="../images/member/oil.jpg">
                                 <img class="img"
-                                     src="https://scontent.fbkk2-2.fna.fbcdn.net/t31.0-8/13653185_1249572351734122_3287366083590406661_o.jpg">
+                                     src="../images/member/oil.jpg">
                             </a>
                         </div>
 
                         <div class="content">
-                            <h6 class="category text-gray">CEO</h6>
-
-                            <h4>Passakon Puttasuwan</h4>
-
-                            <p class="card-description">
-                                ไปด้วยกันไปได้ไกล
-                            </p>
+                            <h4>Chanapon Tatongjai</h4>
                             <div class="footer">
-                                <a href="#pablo" class="btn btn-just-icon btn-twitter btn-round"><i
-                                        class="fa fa-twitter"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-facebook btn-round"><i
+                                <a href="https://www.facebook.com/TCruelO" class="btn btn-just-icon btn-facebook btn-round"><i
                                         class="fa fa-facebook-square"></i></a>
-                                <a href="#pablo" class="btn btn-just-icon btn-google btn-round"><i
-                                        class="fa fa-google"></i></a>
                             </div>
                         </div>
                     </div>
